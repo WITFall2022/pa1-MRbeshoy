@@ -7,7 +7,8 @@ public class PA1a {
  
 	// TODO: document this function
 	public static void main(String[] args) {
-		// TODO: write your code here
+		// TODO: write your code her
+		
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter number of inches in whole numbers:");
 		int inches = input.nextInt();

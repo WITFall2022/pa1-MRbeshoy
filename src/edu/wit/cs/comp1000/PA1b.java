@@ -8,6 +8,7 @@ public class PA1b {
 	// TODO: document this function
 	public static void main(String[] args) {
 		// TODO: write your code here
+		
 		int yards = 0;
 		int feet = 0;
 		int inches = 0;
