@@ -17,7 +17,7 @@ public class PA1b {
 		yards = input.nextInt();
 		System.out.println("Enter number of feet in whole numbers:");
 		feet = input.nextInt();
-		System.out.println("Enter number of inches in whole numbers:");
+		System.out.println("Enter number f inches in whole numbers:");
 		inches = input.nextInt();
 		total = (yards*3*12) + (feet*12) + inches;
 		System.out.println("Total number of inches in whole number:"+total);
